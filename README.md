@@ -21,3 +21,7 @@ Step 6: Final Step Just provide the login detail, it will redirect you to pages.
 Sample dealer login  Sample driver login
 Username : shiny    Username : akhi
 Password : shiny    Password : akhi
+
+
+
+****YOU CAN DIRECTLY DOWNLOAD THE ZIP FILE HERE OR YOU CAN OPEN INDIVIDUAL FOLDERS***
